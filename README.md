@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nealcly, a senior researcher at Natural Language Processing Center, Tencent AI lab.
-- 👀 I’m interested in natural language processing
+- 📫 I’m interested in syntactic parsing, chatbot, and grammatical error correction.
+- 👀 Please email me (leyangcui@tencent.com), if you would like to work with us.
 <!--- - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
