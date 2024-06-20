@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nealcly, a senior researcher at Natural Language Processing Center, Tencent AI lab.
-- 👀 Please email me (cuileyang_neal@qq.com), if you would like to work with us.
+- 👀 Please email me (nealcly.nlp@gmail.com), if you would like to work with us.
 <!--- - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
